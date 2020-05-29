@@ -139,7 +139,9 @@ windows users need to build protobuf from source and also need to download VScod
     ```
 
     Example:
-    ```sh python object_detection/legacy/train.py --train_dir=<full dir>/BrandLOGO_detection/checkpoint --pipeline_config_path=/BrandLOGO_detection/faster_rcnn_resnet101_coco.config ```
+    
+    ```sh python object_detection/legacy/train.py --train_dir=<full dir>/BrandLOGO_detection/checkpoint --pipeline_config_path=/BrandLOGO_detection/faster_rcnn_resnet101_coco.config
+    ```
   interrurpt training when loss is below 0.1.Checkpoints will be saved in Checkpoint folder
 
 9. generate inference graph from saved checkpoints
@@ -150,7 +152,10 @@ windows users need to build protobuf from source and also need to download VScod
 it will be saved in inf_graph folder.
 
 10. **Testing**
-    ```sh cd models/research/object_detection/object_detection_tutorial.ipynb ```
+
+    ```sh 
+    cd models/research/object_detection/object_detection_tutorial.ipynb
+    ```
 
     2. make nessesary changes which results in BrandLOGOdetector.ipynb as given.
 
@@ -172,11 +177,3 @@ it will be saved in inf_graph folder.
   
 ## License
 MIT
-  
-  
-
-
-  
-  
-
-
