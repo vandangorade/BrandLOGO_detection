@@ -35,7 +35,7 @@ These are some detection results by DeepLogo.
 |||
 |---|---|
 |![example1](model_results/res1.png)|![example2](model_results/res2.jpg)|
-|![example3](model_results/res3.png)|![example2](model_results/sample_res4.png)|
+|![example3](model_results/res3.png)|![example4](model_results/sample_res4.png)|
 
 ## Table of Contents
 
@@ -53,7 +53,7 @@ These are some detection results by DeepLogo.
 Brand logo detection system custom dataset using Tesorflow object detection API.
 
 ### Architecture
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbuilders.intel.com%2Fdocs%2Faibuilders%2Ftraffic-light-detection-using-the-tensorflow-object-detection-api.pdf&psig=AOvVaw0th9NkLb-mJAsOtc60nQFV&ust=1590845049226000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIjXr_aV2ekCFQAAAAAdAAAAABAD)
+![example5](Architecture/index.jpg)
 
 ## Getting Started
 
