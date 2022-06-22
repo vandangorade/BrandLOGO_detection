@@ -16,7 +16,7 @@ Markdown==3.1.1
 MarkupSafe==1.1.1
 matplotlib==3.1.1
 mistune==0.8.4
-numpy==1.17.2
+numpy==1.22.0
 opencv-contrib-python==4.1.1.26
 pandocfilters==1.4.2
 parso==0.5.1
