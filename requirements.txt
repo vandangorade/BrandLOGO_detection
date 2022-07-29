@@ -15,7 +15,7 @@ kiwisolver==1.1.0
 Markdown==3.1.1
 MarkupSafe==1.1.1
 matplotlib==3.1.1
-mistune==0.8.4
+mistune==2.0.3
 numpy==1.17.2
 opencv-contrib-python==4.1.1.26
 pandocfilters==1.4.2
